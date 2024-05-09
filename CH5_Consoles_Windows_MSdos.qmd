@@ -1,4 +1,4 @@
-Chapter 5: Consoles, Windows, MS-DOS
+# Chapter 5: Consoles, Windows, MS-DOS
 Written by: Woo Jin Lee
 Word count: 1047
 
@@ -36,3 +36,4 @@ Bibliography:
 8. https://www.youtube.com/watch?v=QHKzHQuMXE4 
 9. https://www.youtube.com/watch?v=H1fhkhCC5l4 
 
+Google Docs Link: https://docs.google.com/document/d/11Yao9rJ3myWbtF-BiGrEzKEW_eawYMNCOitmI9rsENc/edit?usp=sharing 
